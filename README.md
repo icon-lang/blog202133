@@ -3,7 +3,6 @@
 ### 或直接访问博主端口(http://www.qtwyz.cn:80)获取数据(数据不多)
 ### MongoDB数据库  //https://www.mongodb.com/try/download/community2 安装时会带上compass选项安装,建议分开安装，如无特别要求，安装时不需要配置其它项
 ### compass图形界面 //https://www.mongodb.com/try/download/compass2
-### router
 
 ## Project setup
 
