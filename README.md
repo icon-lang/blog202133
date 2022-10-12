@@ -23,7 +23,7 @@ npm run serve
 npm run build
 ```
 
-##  Project setup 
+## Server Project setup 
 
 ```
 npm install
